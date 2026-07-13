@@ -1,0 +1,1 @@
+console.log('XTREAM MUSIC template');
